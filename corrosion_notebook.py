@@ -57,7 +57,7 @@ print("Mixed precision enabled:", mixed_precision.global_policy())
 
 
 # ## **0.3. Define Root and Sub Directories**
-root_of_all = './vegetation_detection'
+root_of_all = './corrosion_detection'
 root_dir = './data/images'
 os.makedirs(root_dir, exist_ok=True)
 
