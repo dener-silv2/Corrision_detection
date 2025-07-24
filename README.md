@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## The Main Script
 
-> [**main_pipeline.ipynb**](https://github.com/dener-silv2/Corrision_detection/corrosion_notebook.py)
+> [**main_pipeline.ipynb**](https://github.com/dener-silv2/Corrision_detection/blob/main/corrosion_notebook.py)
 
 ## Script Overview
 
